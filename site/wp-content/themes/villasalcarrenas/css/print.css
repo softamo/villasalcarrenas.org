@@ -1,0 +1,9 @@
+body 	{font-family: Times, "Times New Roman", serif;font-size: 14pt;}
+nav, footer, div.video, .newspanel, span.image, img, .googlemaps {display: none;}
+#map {display: block;}
+
+.noticia 	 		{ margin-bottom: 25px;border-bottom: 1px solid #000000;display: block;}
+.noticia p.title 	{ font-weight: bold;}
+span.date			{ text-align: right;text-transform: uppercase;font-size: 80%;}
+
+.vcard .org 			{ font-weight: bold;}
