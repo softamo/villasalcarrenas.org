@@ -287,10 +287,12 @@ a.polaroid:hover {
 #content a:active {color:#0c0f4e;} 
 
 #thirdnav 	{background-color: #faa61a;}
+.nav li,
 .nav a 		{color: white;}
 #thirdnav a {color: black;}
 #scndnav 	{background-color: #652A1F;}
 #villasmenu {background-color: #652A1F;}
+#villasmenu li a {text-decoration: underline; }
 #mainnav 	{background-color: #060C10;}
 #content 	{background-color: #E5CF9D;}
 #content h3 {color: rgb(101, 42, 31);}
@@ -327,7 +329,6 @@ table.vista td 	{ background: #fefefe; border-right: 1px solid #652A1F; border-b
 #thirdnav 			{ background: #faa61a url(./images/rutas.gif) bottom right no-repeat;}
 #scndnav  			{ background: #652A1F url(./images/municipios.gif) bottom right no-repeat;}
 .nav h3 				{ display: none;}
-#villasmenu 		{ background: #652A1F url(./images/periodico.gif) top right no-repeat;}
 #alhondigahead, #alhondigahead span 		{ height: 136px; width: 545px; background: url(./images/alhondiga.jpg) top left no-repeat;}
 #fuentelencinahead, #fuentelencinahead span { height: 145px; width: 545px; background: url(./images/fuentelencina.jpg) top left no-repeat;}
 #horchehead, #horchehead span 				{ height: 187px; width: 545px; background: url(./images/horche.jpg) top left no-repeat;}
